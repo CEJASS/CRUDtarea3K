@@ -1,3 +1,4 @@
+// funcionalidad: modal de confirmación de eliminación
 // Componente modal de confirmación de eliminación con fondo desenfocado
 import { useEffect } from 'react'
 
