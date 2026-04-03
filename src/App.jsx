@@ -1,3 +1,4 @@
+// hotfix: corrección en el formato de visualización de fechas
 // Componente raíz: maneja el estado global, la lógica CRUD y la persistencia con localStorage
 import { useState, useEffect, useMemo } from 'react'
 import Header from './components/Header'
