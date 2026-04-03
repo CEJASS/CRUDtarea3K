@@ -1,5 +1,4 @@
 // funcionalidad: filtros y búsqueda
-// Componente de lista de tareas: incluye búsqueda, filtros por estado y prioridad, y renderiza las tarjetas
 import TaskCard from './TaskCard'
 
 // Opciones de filtro por estado
