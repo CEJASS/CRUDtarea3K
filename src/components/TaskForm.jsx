@@ -1,3 +1,4 @@
+// funcionalidad: formulario para agregar tarea
 // Componente de formulario lateral para crear nuevas tareas
 import { useState } from 'react'
 
