@@ -1,3 +1,4 @@
+// funcionalidad: componente de lista de tareas
 // Componente de lista de tareas: incluye búsqueda, filtros por estado y prioridad, y renderiza las tarjetas
 import TaskCard from './TaskCard'
 
