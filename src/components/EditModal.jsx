@@ -1,3 +1,4 @@
+// funcionalidad: modal de edición de tarea
 // Componente modal de edición: permite modificar todos los campos de una tarea existente
 import { useState, useEffect } from 'react'
 
